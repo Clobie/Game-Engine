@@ -1,6 +1,6 @@
 # Game Engine Template
 
-This is an unfinished game engine template project developed in C++. I created this way back in 2010, but decided to re-upload it in case I ever decide to play with it again.
+This is an unfinished game engine template project developed in C++. I created this way back in 2010, but decided to re-upload it in case I ever decide to play with it again. (I lost my old github account from back then)
 
 ## Overview
 
